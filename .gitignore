@@ -1,0 +1,21 @@
+# Environment variables
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+virtual/
+venv/
+
+# Node
+node_modules/
+frontend/dist/
+
+# Uploaded files
+backend/uploads/
+
+# OS
+.DS_Store
